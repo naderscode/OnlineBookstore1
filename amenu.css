@@ -1,0 +1,35 @@
+
+<style type = "text/css">
+
+
+h1 {
+  color:Black;
+  font-family: "High Tower Text";
+  text-align: center
+}
+
+h3 {
+  color: blue;
+  font-family: "Comic Sans MS";
+  
+}
+span.top{
+position: relative;
+}
+span.menuPanel {
+  position: absolute;
+  top: 30%;
+  left:2%;
+  width: 15%;
+
+}
+
+span.item {
+  position: absolute;
+  top:25%;
+  left: 25%;
+  width: 50%;
+
+}
+
+</style>
