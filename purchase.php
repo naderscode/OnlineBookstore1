@@ -50,12 +50,7 @@ print "</table>\n\n";
 //print "<p> $row["Price"]</p>\n\n";
 print '<a href="checkout.php">Checkout</a>';
 
-
 ?>
-
-
-
-
 
 </body>
 </html>
